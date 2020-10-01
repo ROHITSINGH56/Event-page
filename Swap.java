@@ -1,0 +1,18 @@
+#https://www.tumblr.com/blog/view/coolrohitsingh
+#Subscribed by Code House
+
+<!DOCTYPE html> 
+<html> 
+<body> 
+<h3>Example of Enabling SpellCheck</h3> 
+	<form> 
+		<p> 
+			<input type="text" spellcheck="true"> 
+		</p> 
+		<p> 
+			<textarea spellcheck="true"></textarea> 
+		</p> 
+		<button type="reset">Reset</button> 
+	</form> 
+</body> 
+</html>							 
